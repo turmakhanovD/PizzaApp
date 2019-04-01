@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaApp.Console", "PizzaApp\PizzaApp.Console.csproj", "{30341AB6-77AA-4865-A384-ED698A0AC81D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaApp.Service", "PizzaApp.Service\PizzaApp.Service.csproj", "{DCB17B97-8723-46CC-9536-288D35868EF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaApp.Model", "PizzaApp.Model\PizzaApp.Model.csproj", "{1B84DC48-094A-4F89-A0CD-7ADCD549526C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30341AB6-77AA-4865-A384-ED698A0AC81D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30341AB6-77AA-4865-A384-ED698A0AC81D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30341AB6-77AA-4865-A384-ED698A0AC81D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30341AB6-77AA-4865-A384-ED698A0AC81D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCB17B97-8723-46CC-9536-288D35868EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB17B97-8723-46CC-9536-288D35868EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB17B97-8723-46CC-9536-288D35868EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB17B97-8723-46CC-9536-288D35868EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B84DC48-094A-4F89-A0CD-7ADCD549526C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B84DC48-094A-4F89-A0CD-7ADCD549526C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B84DC48-094A-4F89-A0CD-7ADCD549526C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B84DC48-094A-4F89-A0CD-7ADCD549526C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCD3281D-250F-4D15-BD3A-63C66529CC00}
+	EndGlobalSection
+EndGlobal
